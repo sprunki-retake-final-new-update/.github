@@ -1,5 +1,7 @@
 # 🎵 Sprunki Retake Final Update
 
+### 🌐 [Play Now on Official Website](https://sprunkiretakefinalupdate.org)
+
 Welcome to the official GitHub organization for Sprunki Retake Final Update - The Ultimate Musical Horror Experience!
 
 ## 🎮 About Our Project
@@ -74,5 +76,7 @@ Optimized for multiple platforms:
 ---
 
 🎮 *Experience where horror meets harmony in this definitive update*
+
+🌐 **Official Website:** [sprunkiretakefinalupdate.org](https://sprunkiretakefinalupdate.org)
 
 *© 2025 Sprunki Retake Final Update*
